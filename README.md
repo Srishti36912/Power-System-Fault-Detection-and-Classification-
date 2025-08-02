@@ -27,4 +27,5 @@ Power distribution systems are prone to various faults due to environmental, equ
      - Webhook notifications or alerts can be generated using IBM Cloud Functions
 
 ### Result
+<img src= 'relationshipMap.png'>
 <img src= 'result.png'>
