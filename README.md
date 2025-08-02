@@ -25,3 +25,6 @@ Power distribution systems are prone to various faults due to environmental, equ
  - Model Deployment
      - Deployed as REST API using Watson Machine Learning Service.
      - Webhook notifications or alerts can be generated using IBM Cloud Functions
+
+### Result
+<img src= 'result.png'>
